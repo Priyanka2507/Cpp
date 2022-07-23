@@ -1,0 +1,10 @@
+
+if 
+    x < y
+then 
+    x = y
+else 
+    z = 30
+
+int a , b , c ;
+a = b + c 
